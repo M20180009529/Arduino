@@ -1,0 +1,7 @@
+Um único botão deve ser usado para, quando
+pressionado uma vez, acionar o motor para um lado.
+Quando pressionado a segunda vez o motor deve parar.
+Quando pressionado a terceira vez, acionar o motor para
+o outro lado. Quando pressionado pela quarta vez deve
+parar novamente. Quando pressionado novamente volte
+ao estado 1 e repita os estados anteriores.

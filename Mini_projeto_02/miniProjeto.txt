@@ -1,0 +1,4 @@
+Apresentar	na	serial	quantas	vezes	o	botão	foi	
+pressionado	e,	quando	receber	a	letra	“r”	ou	“R”,	deve	
+acender	um	LED	por	1	segundo	e	iniciar	a	contagem	do	
+zero.	

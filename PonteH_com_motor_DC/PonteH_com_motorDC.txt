@@ -1,0 +1,4 @@
+Use o LD293D para controlar a direção do movimento e a
+velocidade de um motor DC via comando do usuário. Um
+botão deve indicar a direção e um potenciômetro a
+velocidade.

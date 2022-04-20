@@ -1,0 +1,4 @@
+Faça	um	projeto	que	recebe	um	dado	serial	e	acende	ou	
+apaga	um	LED	de	acordo	com	o	dado	recebido.	Envie	de	
+volta	alguma	informação	se	está	acendendo	ou	apagando	
+o	LED.	
